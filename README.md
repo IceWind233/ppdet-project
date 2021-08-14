@@ -1,4 +1,5 @@
-# ppdet-project
+# fire detection project
+## This is a fire detection project which focus on solving problems that is difficult to detect for human beings. so i decide to create a model to solve it.
 ## this project is based on ai-studio and the link is https://aistudio.baidu.com/aistudio/projectdetail/2239594
 
 ! git clone https://gitee.com/paddlepaddle/PaddleDetection.git
