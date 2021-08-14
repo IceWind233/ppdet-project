@@ -1,4 +1,5 @@
-# ppdet-project this project is based on ai-studio
+# ppdet-project
+## this project is based on ai-studio and the link is https://aistudio.baidu.com/aistudio/projectdetail/2239594
 
 ! git clone https://gitee.com/paddlepaddle/PaddleDetection.git
 !mv PaddleDetection/ work/
